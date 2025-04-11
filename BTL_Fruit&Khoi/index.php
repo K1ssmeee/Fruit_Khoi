@@ -310,7 +310,7 @@
 								<img src="assets/img/avaters/avatar2.png" alt="">
 							</div>
 							<div class="client-meta">
-								<h3>Anh Tây <span>Local shop owner</span></h3>
+								<h3>Khánh <span>Local shop owner</span></h3>
 								<p class="testimonial-body">
 									" bán thêm "
 								</p>
@@ -324,7 +324,7 @@
 								<img src="assets/img/avaters/avatar3.png" alt="">
 							</div>
 							<div class="client-meta">
-								<h3>Chị Tây <span>Local shop owner</span></h3>
+								<h3>Linh <span>Local shop owner</span></h3>
 								<p class="testimonial-body">
 									" bán thêm "
 								</p>
@@ -519,7 +519,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
-					<p>Copyrights &copy; 2019 - <a href="https://imransdesign.com/">Imran Hossain</a>,  All Rights Reserved.</p>
+					<p>Copyrights &copy; 2025 - <a href="">Tuấn Khôi</a>,  All Rights Reserved.</p>
 				</div>
 				<div class="col-lg-6 text-right col-md-12">
 					<div class="social-icons">

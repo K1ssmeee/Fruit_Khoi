@@ -162,92 +162,93 @@
 	<!-- latest news -->
 	<div class="latest-news mt-150 mb-150">
 		<div class="container">
-			<div class="row">
-				<div class="col-lg-4 col-md-6">
-					<div class="single-latest-news">
-						<a href="single-news.php"><div class="latest-news-bg news-bg-1"></div></a>
-						<div class="news-text-box">
-							<h3><a href="single-news.php">You will vainly look for fruit on it in autumn.</a></h3>
-							<p class="blog-meta">
-								<span class="author"><i class="fas fa-user"></i> Admin</span>
-								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
-							</p>
-							<p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus laborum autem, dolores inventore, beatae nam.</p>
-							<a href="single-news.php" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-latest-news">
-						<a href="single-news.php"><div class="latest-news-bg news-bg-2"></div></a>
-						<div class="news-text-box">
-							<h3><a href="single-news.php">A man's worth has its season, like tomato.</a></h3>
-							<p class="blog-meta">
-								<span class="author"><i class="fas fa-user"></i> Admin</span>
-								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
-							</p>
-							<p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus laborum autem, dolores inventore, beatae nam.</p>
-							<a href="single-news.php" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-latest-news">
-						<a href="single-news.php"><div class="latest-news-bg news-bg-3"></div></a>
-						<div class="news-text-box">
-							<h3><a href="single-news.php">Good thoughts bear good fresh juicy fruit.</a></h3>
-							<p class="blog-meta">
-								<span class="author"><i class="fas fa-user"></i> Admin</span>
-								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
-							</p>
-							<p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus laborum autem, dolores inventore, beatae nam.</p>
-							<a href="single-news.php" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-latest-news">
-						<a href="single-news.php"><div class="latest-news-bg news-bg-4"></div></a>
-						<div class="news-text-box">
-							<h3><a href="single-news.php">Fall in love with the fresh orange</a></h3>
-							<p class="blog-meta">
-								<span class="author"><i class="fas fa-user"></i> Admin</span>
-								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
-							</p>
-							<p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus laborum autem, dolores inventore, beatae nam.</p>
-							<a href="single-news.php" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-latest-news">
-						<a href="single-news.php"><div class="latest-news-bg news-bg-5"></div></a>
-						<div class="news-text-box">
-							<h3><a href="single-news.php">Why the berries always look delecious</a></h3>
-							<p class="blog-meta">
-								<span class="author"><i class="fas fa-user"></i> Admin</span>
-								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
-							</p>
-							<p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus laborum autem, dolores inventore, beatae nam.</p>
-							<a href="single-news.php" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-latest-news">
-						<a href="single-news.php"><div class="latest-news-bg news-bg-6"></div></a>
-						<div class="news-text-box">
-							<h3><a href="single-news.php">Love for fruits are genuine of John Doe</a></h3>
-							<p class="blog-meta">
-								<span class="author"><i class="fas fa-user"></i> Admin</span>
-								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2018</span>
-							</p>
-							<p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus laborum autem, dolores inventore, beatae nam.</p>
-							<a href="single-news.php" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
+		<div class="row">
+	<div class="col-lg-4 col-md-6">
+		<div class="single-latest-news">
+			<a href="single-news.php"><div class="latest-news-bg news-bg-1"></div></a>
+			<div class="news-text-box">
+				<h3><a href="single-news.php">Bạn sẽ vô ích tìm kiếm trái cây trên nó vào mùa thu.</a></h3>
+				<p class="blog-meta">
+					<span class="author"><i class="fas fa-user"></i> Quản trị viên</span>
+					<span class="date"><i class="fas fa-calendar"></i> 27 Tháng Mười Hai, 2019</span>
+				</p>
+				<p class="excerpt">Trái cây không phải lúc nào cũng có sẵn, đặc biệt là vào mùa thu. Hãy trân trọng từng mùa mà thiên nhiên ban tặng.</p>
+				<a href="single-news.php" class="read-more-btn">đọc thêm <i class="fas fa-angle-right"></i></a>
 			</div>
+		</div>
+	</div>
+	<div class="col-lg-4 col-md-6">
+		<div class="single-latest-news">
+			<a href="single-news.php"><div class="latest-news-bg news-bg-2"></div></a>
+			<div class="news-text-box">
+				<h3><a href="single-news.php">Giá trị của một người đàn ông cũng có mùa, như cà chua vậy.</a></h3>
+				<p class="blog-meta">
+					<span class="author"><i class="fas fa-user"></i> Quản trị viên</span>
+					<span class="date"><i class="fas fa-calendar"></i> 27 Tháng Mười Hai, 2019</span>
+				</p>
+				<p class="excerpt">Mỗi người đều có thời điểm tỏa sáng riêng, giống như cà chua chỉ ngon vào đúng mùa của nó.</p>
+				<a href="single-news.php" class="read-more-btn">đọc thêm <i class="fas fa-angle-right"></i></a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg-4 col-md-6">
+		<div class="single-latest-news">
+			<a href="single-news.php"><div class="latest-news-bg news-bg-3"></div></a>
+			<div class="news-text-box">
+				<h3><a href="single-news.php">Suy nghĩ tốt mang đến trái cây tươi ngon.</a></h3>
+				<p class="blog-meta">
+					<span class="author"><i class="fas fa-user"></i> Quản trị viên</span>
+					<span class="date"><i class="fas fa-calendar"></i> 27 Tháng Mười Hai, 2019</span>
+				</p>
+				<p class="excerpt">Tâm trí tích cực sẽ tạo ra những điều tốt đẹp, giống như cây lành cho ra quả ngọt.</p>
+				<a href="single-news.php" class="read-more-btn">đọc thêm <i class="fas fa-angle-right"></i></a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg-4 col-md-6">
+		<div class="single-latest-news">
+			<a href="single-news.php"><div class="latest-news-bg news-bg-4"></div></a>
+			<div class="news-text-box">
+				<h3><a href="single-news.php">Yêu trái cam tươi mới từ cái nhìn đầu tiên.</a></h3>
+				<p class="blog-meta">
+					<span class="author"><i class="fas fa-user"></i> Quản trị viên</span>
+					<span class="date"><i class="fas fa-calendar"></i> 27 Tháng Mười Hai, 2019</span>
+				</p>
+				<p class="excerpt">Sắc cam tươi sáng và hương vị ngọt ngào khiến bạn phải say mê ngay lập tức.</p>
+				<a href="single-news.php" class="read-more-btn">đọc thêm <i class="fas fa-angle-right"></i></a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg-4 col-md-6">
+		<div class="single-latest-news">
+			<a href="single-news.php"><div class="latest-news-bg news-bg-5"></div></a>
+			<div class="news-text-box">
+				<h3><a href="single-news.php">Tại sao quả mọng luôn trông ngon mắt?</a></h3>
+				<p class="blog-meta">
+					<span class="author"><i class="fas fa-user"></i> Quản trị viên</span>
+					<span class="date"><i class="fas fa-calendar"></i> 27 Tháng Mười Hai, 2019</span>
+				</p>
+				<p class="excerpt">Vẻ ngoài mọng nước và màu sắc bắt mắt khiến quả mọng luôn hấp dẫn mọi ánh nhìn.</p>
+				<a href="single-news.php" class="read-more-btn">đọc thêm <i class="fas fa-angle-right"></i></a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg-4 col-md-6">
+		<div class="single-latest-news">
+			<a href="single-news.php"><div class="latest-news-bg news-bg-6"></div></a>
+			<div class="news-text-box">
+				<h3><a href="single-news.php">Tình yêu với trái cây của John Doe là chân thật.</a></h3>
+				<p class="blog-meta">
+					<span class="author"><i class="fas fa-user"></i> Quản trị viên</span>
+					<span class="date"><i class="fas fa-calendar"></i> 27 Tháng Mười Hai, 2018</span>
+				</p>
+				<p class="excerpt">John Doe không chỉ ăn trái cây mỗi ngày, mà còn chia sẻ sự yêu thích này với mọi người xung quanh.</p>
+				<a href="single-news.php" class="read-more-btn">đọc thêm <i class="fas fa-angle-right"></i></a>
+			</div>
+		</div>
+	</div>
+</div>
+
 
 			<div class="row">
 				<div class="container">
@@ -305,15 +306,15 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box about-widget">
 						<h2 class="widget-title">About us</h2>
-						<p>Ut enim ad minim veniam perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.</p>
+						<p>Cần là có</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box get-in-touch">
 						<h2 class="widget-title">Get in Touch</h2>
 						<ul>
-							<li>34/8, East Hukupara, Gifirtok, Sadan.</li>
-							<li>support@fruitkha.com</li>
+							<li>792 Trương Định</li>
+							<li>support@fruit&Khoi.com</li>
 							<li>+00 111 222 3333</li>
 						</ul>
 					</div>
@@ -350,7 +351,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
-					<p>Copyrights &copy; 2019 - <a href="https://imransdesign.com/">Imran Hossain</a>,  All Rights Reserved.</p>
+				<p>Copyrights &copy; 2025 - <a href="">Tuấn Khôi</a>,  All Rights Reserved.</p>
 				</div>
 				<div class="col-lg-6 text-right col-md-12">
 					<div class="social-icons">

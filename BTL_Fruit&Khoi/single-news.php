@@ -161,70 +161,71 @@
 	
 	<!-- single article section -->
 	<div class="mt-150 mb-150">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8">
-					<div class="single-article-section">
-						<div class="single-article-text">
-							<div class="single-artcile-bg"></div>
-							<p class="blog-meta">
-								<span class="author"><i class="fas fa-user"></i> Admin</span>
-								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
-							</p>
-							<h2>Pomegranate can prevent heart disease</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint soluta, similique quidem fuga vel voluptates amet doloremque corrupti. Perferendis totam voluptates eius error fuga cupiditate dolorum? Adipisci mollitia quod labore aut natus nobis. Rerum perferendis, nobis hic adipisci vel inventore facilis rem illo, tenetur ipsa voluptate dolorem, cupiditate temporibus laudantium quidem recusandae expedita dicta cum eum. Quae laborum repellat a ut, voluptatum ipsa eum. Culpa fugiat minus laborum quia nam!</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, praesentium, dicta. Dolorum inventore molestias velit possimus, dolore labore aliquam aperiam architecto quo reprehenderit excepturi ipsum ipsam accusantium nobis ducimus laudantium.</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum est aperiam voluptatum id cupiditate quae corporis ex. Molestias modi mollitia neque magni voluptatum, omnis repudiandae aliquam quae veniam error! Eligendi distinctio, ab eius iure atque ducimus id deleniti, vel alias sint similique perspiciatis saepe necessitatibus non eveniet, quo nisi soluta.</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt beatae nemo quaerat, doloribus obcaecati odio!</p>
-						</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="single-article-section">
+					<div class="single-article-text">
+						<div class="single-artcile-bg"></div>
+						<p class="blog-meta">
+							<span class="author"><i class="fas fa-user"></i> Quản trị viên</span>
+							<span class="date"><i class="fas fa-calendar"></i> 27 Tháng Mười Hai, 2019</span>
+						</p>
+						<h2>Quả lựu có thể ngăn ngừa bệnh tim</h2>
+						<p>Quả lựu được biết đến với nhiều lợi ích sức khỏe, trong đó có khả năng ngăn ngừa bệnh tim. Chúng chứa các chất chống oxy hóa mạnh giúp cải thiện lưu thông máu, giảm huyết áp và ngăn ngừa xơ vữa động mạch. Nghiên cứu cho thấy việc sử dụng nước ép lựu thường xuyên có thể giảm nguy cơ mắc các bệnh tim mạch nghiêm trọng.</p>
+						<p>Ngoài ra, quả lựu còn có tác dụng chống viêm, hỗ trợ kiểm soát cholesterol và làm chậm quá trình oxy hóa các tế bào. Các hợp chất tự nhiên trong lựu giúp bảo vệ thành mạch máu, giảm nguy cơ hình thành cục máu đông và hỗ trợ sức khỏe tim mạch toàn diện.</p>
+						<p>Đặc biệt, quả lựu rất giàu vitamin C, K và kali – những chất dinh dưỡng thiết yếu giúp duy trì sức khỏe của hệ tim mạch. Việc bổ sung quả lựu vào chế độ ăn uống hằng ngày là một cách đơn giản nhưng hiệu quả để bảo vệ trái tim của bạn trước các nguy cơ bệnh lý.</p>
+						<p>Tóm lại, quả lựu không chỉ là một loại trái cây ngon miệng mà còn là một "siêu thực phẩm" giúp tăng cường sức khỏe tim mạch và phòng ngừa bệnh tật hiệu quả.</p>
+					</div>
 
-						<div class="comments-list-wrap">
-							<h3 class="comment-count-title">3 Comments</h3>
-							<div class="comment-list">
-								<div class="single-comment-body">
-									<div class="comment-user-avater">
-										<img src="assets/img/avaters/avatar1.png" alt="">
-									</div>
-									<div class="comment-text-body">
-										<h4>Jenny Joe <span class="comment-date">Aprl 26, 2020</span> <a href="#">reply</a></h4>
-										<p>Nunc risus ex, tempus quis purus ac, tempor consequat ex. Vivamus sem magna, maximus at est id, maximus aliquet nunc. Suspendisse lacinia velit a eros porttitor, in interdum ante faucibus Suspendisse lacinia velit a eros porttitor, in interdum ante faucibus.</p>
-									</div>
-									<div class="single-comment-body child">
-										<div class="comment-user-avater">
-											<img src="assets/img/avaters/avatar3.png" alt="">
-										</div>
-										<div class="comment-text-body">
-											<h4>Simon Soe <span class="comment-date">Aprl 27, 2020</span> <a href="#">reply</a></h4>
-											<p>Nunc risus ex, tempus quis purus ac, tempor consequat ex. Vivamus sem magna, maximus at est id, maximus aliquet nunc. Suspendisse lacinia velit a eros porttitor, in interdum ante faucibus.</p>
-										</div>
-									</div>
+					<div class="comments-list-wrap">
+						<h3 class="comment-count-title">3 Bình luận</h3>
+						<div class="comment-list">
+							<div class="single-comment-body">
+								<div class="comment-user-avater">
+									<img src="assets/img/avaters/avatar1.png" alt="">
 								</div>
-								<div class="single-comment-body">
+								<div class="comment-text-body">
+									<h4>Công <span class="comment-date">26 Tháng Tư, 2020</span> <a href="#">trả lời</a></h4>
+									<p>Bài viết thật sự hữu ích! Mình đã từng nghe quả lựu rất tốt, nhưng không nghĩ là có nhiều lợi ích cho tim mạch đến vậy. Cảm ơn tác giả!</p>
+								</div>
+								<div class="single-comment-body child">
 									<div class="comment-user-avater">
-										<img src="assets/img/avaters/avatar2.png" alt="">
+										<img src="assets/img/avaters/avatar3.png" alt="">
 									</div>
 									<div class="comment-text-body">
-										<h4>Addy Aoe <span class="comment-date">May 12, 2020</span> <a href="#">reply</a></h4>
-										<p>Nunc risus ex, tempus quis purus ac, tempor consequat ex. Vivamus sem magna, maximus at est id, maximus aliquet nunc. Suspendisse lacinia velit a eros porttitor, in interdum ante faucibus Suspendisse lacinia velit a eros porttitor, in interdum ante faucibus.</p>
+										<h4>Linh <span class="comment-date">27 Tháng Tư, 2020</span> <a href="#">trả lời</a></h4>
+										<p>Đúng rồi, mình cũng đang uống nước ép lựu mỗi sáng. Từ khi dùng cảm thấy cơ thể khoẻ hơn và ít bị mệt mỏi.</p>
 									</div>
 								</div>
 							</div>
-						</div>
-
-						<div class="comment-template">
-							<h4>Leave a comment</h4>
-							<p>If you have a comment dont feel hesitate to send us your opinion.</p>
-							<form action="index.html">
-								<p>
-									<input type="text" placeholder="Your Name">
-									<input type="email" placeholder="Your Email">
-								</p>
-								<p><textarea name="comment" id="comment" cols="30" rows="10" placeholder="Your Message"></textarea></p>
-								<p><input type="submit" value="Submit"></p>
-							</form>
+							<div class="single-comment-body">
+								<div class="comment-user-avater">
+									<img src="assets/img/avaters/avatar2.png" alt="">
+								</div>
+								<div class="comment-text-body">
+									<h4>Khánh <span class="comment-date">12 Tháng Năm, 2020</span> <a href="#">trả lời</a></h4>
+									<p>Mình sẽ thử bổ sung quả lựu vào bữa ăn hằng ngày. Hy vọng sẽ cải thiện sức khỏe. Cảm ơn bài viết rất nhiều!</p>
+								</div>
+							</div>
 						</div>
 					</div>
+
+					<div class="comment-template">
+						<h4>Để lại bình luận</h4>
+						<p>Nếu bạn có ý kiến, đừng ngần ngại chia sẻ với chúng tôi.</p>
+						<form action="index.html">
+							<p>
+								<input type="text" placeholder="Tên của bạn">
+								<input type="email" placeholder="Email của bạn">
+							</p>
+							<p><textarea name="comment" id="comment" cols="30" rows="10" placeholder="Nội dung bình luận của bạn"></textarea></p>
+							<p><input type="submit" value="Gửi bình luận"></p>
+						</form>
+					</div>
 				</div>
+			</div>
+
 				<div class="col-lg-4">
 					<div class="sidebar-section">
 						<div class="recent-posts">
@@ -300,15 +301,15 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box about-widget">
 						<h2 class="widget-title">About us</h2>
-						<p>Ut enim ad minim veniam perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.</p>
+						<p>Cần là có</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box get-in-touch">
 						<h2 class="widget-title">Get in Touch</h2>
 						<ul>
-							<li>34/8, East Hukupara, Gifirtok, Sadan.</li>
-							<li>support@fruitkha.com</li>
+							<li>792 Trương Định</li>
+							<li>support@fruit&Khoi.com</li>
 							<li>+00 111 222 3333</li>
 						</ul>
 					</div>
@@ -345,7 +346,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
-					<p>Copyrights &copy; 2019 - <a href="https://imransdesign.com/">Imran Hossain</a>,  All Rights Reserved.</p>
+				<p>Copyrights &copy; 2025 - <a href="">Tuấn Khôi</a>,  All Rights Reserved.</p>
 				</div>
 				<div class="col-lg-6 text-right col-md-12">
 					<div class="social-icons">
