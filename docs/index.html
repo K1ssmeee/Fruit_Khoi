@@ -100,14 +100,12 @@
 									<div class="header-icons">
 									<div class="user_option">
               
-              <?php
-              if(!empty($_SESSION["UserName"])) {
-                echo "<p style='color: white; margin: 0;'> Hello " . $_SESSION["UserName"] . "</p>";
-                echo "<a href='logout.php' class='user_link'> <i class='fa-solid fa-right-from-bracket' aria-hidden='true'></i></a>";
-              } else{
-                echo "<a href='login_user.php' class='user_link'> <i class='fa fa-user' aria-hidden='true'></i></a>";
-              }
-              ?>
+                
+                
+        
+                <a href='login_user.php' class='user_link'> <i class='fa fa-user' aria-hidden='true'></i></a>
+              
+            
               <a class="cart_link" href="cart.php">
                 
               </a>
@@ -224,32 +222,40 @@
 			</div>
 
 			<div class="row product-lists">
-			 <?php 
-                // Thiết lập kết nối với cơ sở dữ liệu
-                include('../controls.php');
-                $data_product = new data_product();
-                
-                // Lấy tất cả sản phẩm từ cơ sở dữ liệu
-                $products = $data_product->select_all_pro();
-
-                // Sử dụng vòng lặp để đổ dữ liệu ra HTML
-                foreach ($products as $product) {
-            ?>
-			<div class="col-lg-4 col-md-6 text-center">
-				<div class="single-product-item">
-					<div class="product-image">
-						<img src="../image/<?php echo $product['Picture_pro']; ?>" alt="Ảnh sản phẩm">
+				<div class="col-lg-4 col-md-6 text-center">
+					<div class="single-product-item">
+						<div class="product-image">
+							<img src="../image/product-img-1.jpg" alt="Ảnh sản phẩm">
+						</div>
+						<h3>Dâu Tây</h3>
+						<p class="product-price"><span></span>30 $</p>
+						<a href="single-product.php" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
 					</div>
-					<h3><?php echo $product['Name_pro']; ?></h3>
-					<p class="product-price"><span><?php echo $product['Description_pro']; ?></span> $<?php echo $product['Price_pro']; ?> </p>
-					<a href="single-product.php?id=<?php echo $product['ID_pro']; ?>" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
-					
+				</div>
+			
+				<div class="col-lg-4 col-md-6 text-center">
+					<div class="single-product-item">
+						<div class="product-image">
+							<img src="../image/product-img-2.jpg" alt="Ảnh sản phẩm">
+						</div>
+						<h3>Nho Mỹ</h3>
+						<p class="product-price"><span></span>25 $</p>
+						<a href="single-product.php" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+					</div>
+				</div>
+			
+				<div class="col-lg-4 col-md-6 text-center">
+					<div class="single-product-item">
+						<div class="product-image">
+							<img src="../image/product-img-3.jpg" alt="Ảnh sản phẩm">
+						</div>
+						<h3>Chanh Vàng</h3>
+						<p class="product-price"><span></span>5 $</p>
+						<a href="single-product.php" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+					</div>
 				</div>
 			</div>
-			<?php 
-                } // Đóng vòng lặp foreach
-            ?>
-		 </div>
+			
 		</div>
 	</div>
 	<!-- end product section -->
@@ -391,7 +397,7 @@
 					<div class="single-latest-news">
 						<a href="single-news.php"><div class="latest-news-bg news-bg-1"></div></a>
 						<div class="news-text-box">
-							<h3><a href="single-news.php">You will vainly look for fruit on it in autumn.</a></h3>
+							<h3><a href="single-news.php">Vào mùa thu, bạn sẽ khó mà tìm thấy trái cây trên cây.</a></h3>
 							<p class="blog-meta">
 								<span class="author"><i class="fas fa-user"></i> Admin</span>
 								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
@@ -405,7 +411,7 @@
 					<div class="single-latest-news">
 						<a href="single-news.php"><div class="latest-news-bg news-bg-2"></div></a>
 						<div class="news-text-box">
-							<h3><a href="single-news.php">A man's worth has its season, like tomato.</a></h3>
+							<h3><a href="single-news.php">Giá trị của con người cũng có mùa như cà chua.</a></h3>
 							<p class="blog-meta">
 								<span class="author"><i class="fas fa-user"></i> Admin</span>
 								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
@@ -419,7 +425,7 @@
 					<div class="single-latest-news">
 						<a href="single-news.php"><div class="latest-news-bg news-bg-3"></div></a>
 						<div class="news-text-box">
-							<h3><a href="single-news.php">Good thoughts bear good fresh juicy fruit.</a></h3>
+							<h3><a href="single-news.php">Suy nghĩ tích cực sẽ mang đến trái ngọt và tươi mới.</a></h3>
 							<p class="blog-meta">
 								<span class="author"><i class="fas fa-user"></i> Admin</span>
 								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
